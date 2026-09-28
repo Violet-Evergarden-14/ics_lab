@@ -90,7 +90,7 @@ int bitAnd(int x, int y) {
 
 1. 保证函数的返回值符合要求
 2. 保证只使用了 `Legal ops` 中给出的符号
-3. 符号数的总数不能超过 `Max ops`
+3. 符号的总数不能超过 `Max ops`
 
 ### 具体要求
 
